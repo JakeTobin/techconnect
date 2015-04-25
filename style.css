@@ -1910,6 +1910,19 @@ section.greyish {
     border-radius: 50%;
     background-color: #F5F5F5;
 }
+.timeline .experiencepast .circle {
+    position: absolute;
+    top: 1em;
+    left: -0.667em;
+    display: block;
+    width: 1.222em;
+    height: 1.222em;
+    border: 3px solid #ccc;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    background-color: #F5F5F5;
+}
 
 .timeline .experience-img {
     float: left;
